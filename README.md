@@ -4,5 +4,5 @@ HTML, CSS, JavaScript, and Python are some of the languages we must learn as web
 
 ### Key things to remember
 
-**Motto/Goal** : is to continuously strive to be a better version of ourselves than we were yesterday.
+**Motto/Goal** : is to continuously strive to be a better version of ourselves than we were yesterday. As long as we're making progress, we know we're on the right track.
 
